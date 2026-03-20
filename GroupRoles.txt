@@ -7,7 +7,7 @@ Oversight -
 Gale Shapley Stable Marriage
 Algorithm - Jackson B
 Testing - 
-Animation - 
+Animation - Noah B
 Oversight - 
 
 Dinic's Max Flow
