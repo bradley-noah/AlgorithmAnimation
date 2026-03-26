@@ -4,7 +4,7 @@ Three algorithms and their respective animators built with Python + Tkinter (no 
 
 ---
 # Project Structure
-
+```
 AlgorithmAnimation/
 ├── main.py                          # launcher – opens all three windows
 │
@@ -24,7 +24,8 @@ AlgorithmAnimation/
 │
 └── dinic/
     ├── dinic.py
-    └── dinic_animation.py         
+    └── dinic_animation.py 
+```        
 ```
 
 # Running 
