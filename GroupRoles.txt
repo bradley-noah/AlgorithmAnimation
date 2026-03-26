@@ -6,7 +6,7 @@ Oversight -
 
 Gale Shapley Stable Marriage
 Algorithm - Jackson B
-Testing - 
+Testing - Brock Kitterman
 Animation - Noah B
 Oversight - 
 
