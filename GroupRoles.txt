@@ -13,5 +13,5 @@ Oversight -
 Dinic's Max Flow
 Algorithm - Gates
 Testing - 
-Animation - 
+Animation - Ed Page
 Oversight - 
