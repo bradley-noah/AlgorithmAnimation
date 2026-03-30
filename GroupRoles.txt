@@ -2,7 +2,7 @@ Hungarian Min Max
 Algorithm - Brett W
 Testing - 
 Animation - Riley F
-Oversight - 
+Oversight - pat
 
 Gale Shapley Stable Marriage
 Algorithm - Jackson B
