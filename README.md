@@ -44,6 +44,9 @@ python -m dinic.dinic_animation
 # Algorithm without main
 python dinic/dinic.py
 
+# Testing without main
+python gale_shapley/gale_shapley_testing.py
+
 
 ```
 **Note**: If on Windows and have the Windows Python package installed, the 'python' command may need to be replaced with 'python.exe' to ensure dependencies are included natively.
