@@ -46,5 +46,6 @@ python dinic/dinic.py
 
 
 ```
+**Note**: If on Windows and have the Windows Python package installed, the 'python' command may need to be replaced with 'python.exe' to ensure dependencies are included natively.
 
 
