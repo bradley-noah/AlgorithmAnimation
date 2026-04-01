@@ -11,7 +11,7 @@ Animation - Noah B
 Oversight - 
 
 Dinic's Max Flow
-Algorithm - Gates 
+Algorithm - Gates A
 Testing - 
 Animation - Ed Page
 Oversight - 
