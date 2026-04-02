@@ -8,7 +8,7 @@ Gale Shapley Stable Marriage
 Algorithm - Jackson B
 Testing - Brock Kitterman
 Animation - Noah B
-Oversight - 
+Oversight - Ethan P
 
 Dinic's Max Flow
 Algorithm - Gates 
