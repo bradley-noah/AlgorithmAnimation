@@ -1,6 +1,6 @@
 Hungarian Min Max
 Algorithm - Brett W
-Testing - 
+Testing - Christian L
 Animation - Riley F
 Oversight - Pat
 
@@ -8,10 +8,10 @@ Gale Shapley Stable Marriage
 Algorithm - Jackson B
 Testing - Brock Kitterman
 Animation - Noah B
-Oversight - 
+Oversight - Ethan P
 
 Dinic's Max Flow
 Algorithm - Gates 
-Testing - 
+Testing - Luke B
 Animation - Ed Page
 Oversight - 
