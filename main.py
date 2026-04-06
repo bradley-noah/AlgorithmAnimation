@@ -6,7 +6,7 @@ def launch_all():
     root = tk.Tk()
     root.withdraw()
 
-    from hungarian.hungarian_animation   import HungarianAnimator
+    from hungarian.hungarian_animation import HungarianAnimator
     from gale_shapley.gale_shapley_animation import GaleShapleyAnimator
     from dinic.dinic_animation           import DinicAnimator
 
