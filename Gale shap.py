@@ -1,9 +1,8 @@
-import random
-
+//Test
 from gale_shapley import *
 
 """
-Test is a matching is stable. An unstable matching exists if there is a blocking pair.
+This is a test to see if matching is stable. An unstable matching exists if there is a blocking pair.
 """
 def verify_stability(matching, p_prefs, r_prefs):
     proposers = list(p_prefs.keys())
