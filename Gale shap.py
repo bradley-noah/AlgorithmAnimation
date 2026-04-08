@@ -8,15 +8,15 @@ def verify_stability(matching, p_prefs, r_prefs):
     proposers = list(p_prefs.keys())
     receivers = list(r_prefs.keys())
     
-    # Check for all matching
+    # Checked for all matching
     if len(matching) != len(proposers):
         return False, "Not everyone is matched."
     
     matched_receivers = set(matching.values())
     if len(matched_receivers) != len(receivers):
-        return False, "Not all receivers are matched or someone is matched twice."
+        return False,
 
-    # Check for blocking pairs
+    # Checked for blocking pairs
     for m, current_w in matching.items():
         m_pref_list = p_prefs[m]
         
