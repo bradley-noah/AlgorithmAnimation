@@ -56,6 +56,8 @@ python dinic/dinic.py
 
 # Testing without main
 python dinic/dinic_testing.py
+python gale_shapley/gale_shapley_testing.py
+python hungarian/hungarian_testing.py
 
 
 ```
