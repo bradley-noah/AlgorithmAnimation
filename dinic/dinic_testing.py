@@ -3,11 +3,15 @@ import random
 from dinic import *
 
 
-def verify_stability(events, maxflow):
+def verify_stability(events, Graph, maxflow):
     
 
-    # to do in the morning: write tests here
-    
+    #for each edge, flow is not > capacity
+
+    for edge in graph[frm]:
+        if edge.cap < 0:
+            return False, "An edge has a flow above capacity"
+
 
     return True, "Max Flow is Valid."
 
