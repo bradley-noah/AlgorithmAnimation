@@ -1,17 +1,17 @@
 Hungarian Min Max
-Algorithm - Brett W
-Testing - Christian L
-Animation - Riley F
-Oversight - Pat
+Algorithm - Brett Waldvogel
+Testing - Christian Lindner
+Animation - Riley Fee
+Oversight - Patrick Dolan
 
 Gale Shapley Stable Marriage
-Algorithm - Jackson B
+Algorithm - Jackson Burke
 Testing - Brock Kitterman
-Animation - Noah B
-Oversight - Ethan P
+Animation - Noah Bradley
+Oversight - Ethan Polster
 
 Dinic's Max Flow
-Algorithm - Gates 
-Testing - Luke B
+Algorithm - Gates Arnold
+Testing - Luke Bird
 Animation - Ed Page
 Oversight - 

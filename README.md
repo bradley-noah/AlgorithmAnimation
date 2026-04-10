@@ -1,6 +1,6 @@
 # Algorithm Animation
  
-Three algorithms and their respective animators built with Python. Gale-Shapley and Dinic use Tkinter (no extra dependencies). The Hungarian algorithm uses Manim for rendering.
+Three algorithms and their respective animators built with Python. Gale-Shapley and Dinic use Tkinter (no extra dependencies). The Hungarian algorithm uses Manim for rendering. Please see GroupRoles.txt for a complete list of our group members.
  
 ---
 
