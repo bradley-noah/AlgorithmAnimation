@@ -98,7 +98,7 @@ def run_single_test(test_id, size, Graph, edges, cap, note):
 
 
         status = "PASS" if stable else "FAIL"
-        print(f"{test_id:<10} | {len(p_prefs):<6} | {status:<10} | {note if stable else msg}")
+        print(f"{test_id:<10} | {size:<6} | {status:<10} | {note if stable else msg}")
     except Exception as e:
         print(f"{test_id:<10} | Error      | FAIL       | {str(e)}")
 
