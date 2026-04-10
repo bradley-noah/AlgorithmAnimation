@@ -1,8 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/dinic/__pycache__
-/shared/__pycache__
-/gale_shapley/__pycache__
-/hungarian/__pycache__
